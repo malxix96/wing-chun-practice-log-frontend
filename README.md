@@ -1,1 +1,1 @@
-# wing-chun-practice-log-react
+# wing-chun-practice-log-frontend
